@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T12:55:55.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="YUek6cE-TRClcIibEnH5" version="13.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T12:57:10.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="U0FQgb2sOuLQq6H7nsdx" version="13.9.3" type="github">
   <diagram id="UfCDmlji5BRWwAAZilHE" name="Page-1">
-    <mxGraphModel dx="2240" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1996" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Y6qhXy6sjdtOq2Szb0JI-76" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="540" y="150" width="1490" height="1320" as="geometry" />
+        </mxCell>
         <mxCell id="Y6qhXy6sjdtOq2Szb0JI-71" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="271" y="230" width="219" height="430" as="geometry" />
         </mxCell>
@@ -97,7 +100,7 @@
         <mxCell id="Y6qhXy6sjdtOq2Szb0JI-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="610" y="770" width="820" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="Y6qhXy6sjdtOq2Szb0JI-27" value="Ablauf 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="Y6qhXy6sjdtOq2Szb0JI-27" value="Workflow 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="650" y="810" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y6qhXy6sjdtOq2Szb0JI-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
@@ -322,6 +325,9 @@
         </mxCell>
         <mxCell id="Y6qhXy6sjdtOq2Szb0JI-75" value="employees" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="809" y="-110" width="81" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6qhXy6sjdtOq2Szb0JI-77" value="Werbsite Instanz" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="540" y="150" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
