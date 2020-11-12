@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T16:12:45.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="crm4AA_iChzrlwMVUcE0" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T16:26:31.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="68cfT8FRTqVRzcnBYZi_" version="13.9.7" type="github">
   <diagram id="70bfVvZdJQQgJL3tboRI" name="Page-1">
-    <mxGraphModel dx="1208" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2013" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,18 +36,15 @@
         <mxCell id="ZdR_tYWf37mToOd-I0VG-10" value="redirect&amp;nbsp;&lt;br style=&quot;font-size: 20px;&quot;&gt;benachriochten" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="560" y="950" width="186" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="ZdR_tYWf37mToOd-I0VG-11" value="else if Submit btn clicken" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.105;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=20;" edge="1" parent="1" source="ZdR_tYWf37mToOd-I0VG-1">
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-11" value="else if Submit btn clicken" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.105;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdR_tYWf37mToOd-I0VG-1" target="ZdR_tYWf37mToOd-I0VG-14">
           <mxGeometry x="0.5084" y="7" relative="1" as="geometry">
             <mxPoint x="304.56999999999994" y="332.03999999999996" as="sourcePoint" />
             <mxPoint x="580" y="1330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="292" y="1330" />
+              <mxPoint x="292" y="1480" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ZdR_tYWf37mToOd-I0VG-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZdR_tYWf37mToOd-I0VG-13" value="if reinkommen" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.105;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdR_tYWf37mToOd-I0VG-1" target="ZdR_tYWf37mToOd-I0VG-2">
           <mxGeometry x="0.0667" relative="1" as="geometry">
@@ -58,6 +55,84 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="ZdR_tYWf37mToOd-I0VG-14" target="ZdR_tYWf37mToOd-I0VG-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-14" value="&lt;span&gt;müssen die Daten &lt;br&gt;validiert werden?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1330" width="320" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-15" value="berechtigen&lt;br&gt;Content Bindings&lt;br&gt;Create Content item&lt;br&gt;Resieabrechnung" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1400" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-17" value="fertig(abgeschlossen)" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdR_tYWf37mToOd-I0VG-15" target="ZdR_tYWf37mToOd-I0VG-18">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1350" y="1470" as="sourcePoint" />
+            <mxPoint x="1430" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-18" value="User&amp;nbsp;&lt;br&gt;berechtigen&lt;br&gt;(nur Ansicht)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="1400" width="310" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-19" value="fertig(abgeschlossen)" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdR_tYWf37mToOd-I0VG-18" target="ZdR_tYWf37mToOd-I0VG-20">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="2030" y="1479.5" as="sourcePoint" />
+            <mxPoint x="2440" y="1479.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-20" value="Schritt 2&lt;br&gt;freigeben &lt;br&gt;und zustimmen&lt;br&gt;und&lt;br&gt;Verlauf Status Speichern" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2490" y="1397.5" width="200" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-21" value="fertig(abgeschlossen)" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdR_tYWf37mToOd-I0VG-20" target="ZdR_tYWf37mToOd-I0VG-22">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="2720" y="1479.5" as="sourcePoint" />
+            <mxPoint x="3190" y="1479.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-22" value="User berechtigen&lt;br&gt;(zurückziehen dürfen)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="3220" y="1435" width="430" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-23" value="fertig(abgeschlossen)" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdR_tYWf37mToOd-I0VG-22" target="ZdR_tYWf37mToOd-I0VG-24">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="3690" y="1479.5" as="sourcePoint" />
+            <mxPoint x="4060" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-24" value="User 2 berechtigen&lt;br&gt;Ansicht&lt;br&gt;bearbeiten&lt;br&gt;abbrechen&lt;br&gt;ok&lt;br&gt;ablehnen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="4100" y="1370" width="370" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-25" value="fertig(abgeschlossen)" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZdR_tYWf37mToOd-I0VG-24" target="ZdR_tYWf37mToOd-I0VG-27">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="4440" y="1470" as="sourcePoint" />
+            <mxPoint x="4890" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-27" value="Frau oder Herr?" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="4940" y="1402.5" width="266.67" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-29" value="Email senden" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="5400" y="1429" width="270" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-30" value="Anrede geändert" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=20;exitX=0.99;exitY=0.509;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdR_tYWf37mToOd-I0VG-27" target="ZdR_tYWf37mToOd-I0VG-29">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="5260" y="1470" as="sourcePoint" />
+            <mxPoint x="5340" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-32" value="fertig" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdR_tYWf37mToOd-I0VG-29" target="ZdR_tYWf37mToOd-I0VG-33">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="5690.0033" y="1491.44" as="sourcePoint" />
+            <mxPoint x="5886" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="ZdR_tYWf37mToOd-I0VG-33" target="ZdR_tYWf37mToOd-I0VG-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-33" value="Popup fertig jo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="5933" y="1435" width="270" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdR_tYWf37mToOd-I0VG-34" value="redirect&lt;br&gt;Startsite" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="6320" y="1458.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
