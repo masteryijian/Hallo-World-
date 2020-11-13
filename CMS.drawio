@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T08:26:47.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" version="13.9.7" etag="ezVFHsfzuAVX1vOs_-bU" type="github"><diagram id="UxMxldDMPaRsQCXvSrtg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-13T08:33:22.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="YmwqvE1M6Qbr2hMqGSti" version="13.9.7" type="github">
+  <diagram id="UxMxldDMPaRsQCXvSrtg" name="Page-1">
+    <mxGraphModel dx="1208" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8K2r_tsUIS1p7Gab6ZQ4-1" value="Maske&lt;br style=&quot;font-size: 18px&quot;&gt;(HMI)&lt;br style=&quot;font-size: 18px&quot;&gt;(Visualisierung)&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;br style=&quot;font-size: 18px&quot;&gt;Sprach:&lt;br style=&quot;font-size: 18px&quot;&gt;HTML&lt;br style=&quot;font-size: 18px&quot;&gt;CSS&lt;br style=&quot;font-size: 18px&quot;&gt;Javascript" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8K2r_tsUIS1p7Gab6ZQ4-2" value="Date source&lt;br style=&quot;font-size: 18px;&quot;&gt;(variable deklarieren)&lt;br style=&quot;font-size: 18px;&quot;&gt;(UDT or default)&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;C#" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8K2r_tsUIS1p7Gab6ZQ4-3" value="Workflow Schritt und action&lt;br style=&quot;font-size: 18px;&quot;&gt;(logic)&lt;br style=&quot;font-size: 18px;&quot;&gt;(validieren und berechtigen)&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Sprach:&lt;br style=&quot;font-size: 18px;&quot;&gt;C#&lt;br style=&quot;font-size: 18px;&quot;&gt;(Javascript auch ?)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="240" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8K2r_tsUIS1p7Gab6ZQ4-4" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="570" as="sourcePoint" />
+            <mxPoint x="240" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8K2r_tsUIS1p7Gab6ZQ4-5" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="570" as="sourcePoint" />
+            <mxPoint x="520" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8K2r_tsUIS1p7Gab6ZQ4-6" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="8K2r_tsUIS1p7Gab6ZQ4-1" target="8K2r_tsUIS1p7Gab6ZQ4-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="370" as="sourcePoint" />
+            <mxPoint x="270" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8K2r_tsUIS1p7Gab6ZQ4-7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="8K2r_tsUIS1p7Gab6ZQ4-1" target="8K2r_tsUIS1p7Gab6ZQ4-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="220" as="sourcePoint" />
+            <mxPoint x="160" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8K2r_tsUIS1p7Gab6ZQ4-8" value="" style="endArrow=classic;html=1;entryX=-0.017;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="483" y="360" as="sourcePoint" />
+            <mxPoint x="555.9200000000001" y="360.03999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
