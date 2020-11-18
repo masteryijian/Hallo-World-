@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T15:08:13.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="ckD2VuJbsEqL4VtImCsD" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T15:08:52.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="u1AEDDH79G3WtOdZMeao" version="13.9.9" type="github">
   <diagram id="RTxzsfb38XMDdH33E54I" name="Page-1">
     <mxGraphModel dx="2249" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4_99zT2MEp11uvjItWfj-1" value="maske:&lt;br style=&quot;font-size: 19px;&quot;&gt;+ Save&lt;br style=&quot;font-size: 19px;&quot;&gt;+Load" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="600" y="360" width="160" height="150" as="geometry" />
+        <mxCell id="4_99zT2MEp11uvjItWfj-1" value="in Maske auftauchen:&lt;br style=&quot;font-size: 19px&quot;&gt;+ Save&lt;br style=&quot;font-size: 19px&quot;&gt;+Load" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="4_99zT2MEp11uvjItWfj-2" value="DS Configuration" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="255" y="240" width="180" height="60" as="geometry" />
