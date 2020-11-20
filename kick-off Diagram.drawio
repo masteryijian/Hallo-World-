@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T08:32:46.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="iuDSq2m22f_0J-tRJpFy" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T08:42:23.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="WpofBkI8LG94l9vmEluz" version="13.10.0" type="github">
   <diagram id="b3nM-uWUJkLZfT_GbLBI" name="Page-1">
     <mxGraphModel dx="1422" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,22 +109,37 @@
         <mxCell id="AcxDM_mVUxx4Y-OriM8n-46" value="+ anmelden" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=19;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="AcxDM_mVUxx4Y-OriM8n-45" vertex="1">
           <mxGeometry y="30" width="160" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="wHNJylQBOaRW4k9Dnt0R-1" value="Kick-off Fragenkatalog" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-1" target="wHNJylQBOaRW4k9Dnt0R-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-1" target="wHNJylQBOaRW4k9Dnt0R-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-1" target="wHNJylQBOaRW4k9Dnt0R-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-1" target="wHNJylQBOaRW4k9Dnt0R-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-1" target="wHNJylQBOaRW4k9Dnt0R-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wHNJylQBOaRW4k9Dnt0R-1" value="Kick-off Fragenkatalog" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="640" y="-110" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wHNJylQBOaRW4k9Dnt0R-2" value="Termins,&amp;nbsp;&lt;br&gt;Gewünschter Zeitrahmen,&lt;br&gt;Kontakt" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="-120" width="280" height="90" as="geometry" />
+        <mxCell id="wHNJylQBOaRW4k9Dnt0R-2" value="Termins,&amp;nbsp;&lt;br&gt;Gewünschter Zeitrahmen,&lt;br&gt;Kontakt" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="1085" y="-130" width="280" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="wHNJylQBOaRW4k9Dnt0R-3" value="Daten zur Einrichtung des Portals(Workflows)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="wHNJylQBOaRW4k9Dnt0R-3" value="Daten zur Einrichtung des Portals(Workflows)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="1080" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wHNJylQBOaRW4k9Dnt0R-4" value="Dtammdatenimport" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="wHNJylQBOaRW4k9Dnt0R-4" value="Dtammdatenimport" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="1080" y="160" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wHNJylQBOaRW4k9Dnt0R-5" value="Schnittstellen zu anderen Systemen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="wHNJylQBOaRW4k9Dnt0R-5" value="Schnittstellen zu anderen Systemen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="1080" y="270" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wHNJylQBOaRW4k9Dnt0R-6" value="Payrollportal, Employee" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="wHNJylQBOaRW4k9Dnt0R-6" value="Payrollportal, Employee" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="1080" y="360" width="290" height="70" as="geometry" />
         </mxCell>
       </root>
