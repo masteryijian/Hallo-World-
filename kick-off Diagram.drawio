@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T10:37:56.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Xo6snK8vmLpUA3h7fLA_" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T10:44:49.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="AOb3MGjvD9i7LGHcuUv_" version="13.10.0" type="github">
   <diagram id="b3nM-uWUJkLZfT_GbLBI" name="Page-1">
     <mxGraphModel dx="1422" dy="3138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -297,11 +297,14 @@
         <mxCell id="krnSTrBuLFelM3X9hXQ2-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="krnSTrBuLFelM3X9hXQ2-30" target="krnSTrBuLFelM3X9hXQ2-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="krnSTrBuLFelM3X9hXQ2-30" target="krnSTrBuLFelM3X9hXQ2-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-30" value="Definition Login Benutzername und Nutzerkennung" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2425" y="-249" width="540" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="krnSTrBuLFelM3X9hXQ2-32" value="Passwort Konventionen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2425" y="-160" width="290" height="60" as="geometry" />
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-32" value="Passwort Konventionen, Mindestlänge, min. ein Großbuchstabe, min. eine Zahl, min. ein Sonderzeichen, Passwort Fragen zur Funktion &quot;Passwort vergessen&quot;,&lt;br&gt;SMS-Code zur Funktion &quot;Passwort vergessen&quot;,&amp;nbsp;&lt;span style=&quot;font-size: 10.0pt ; line-height: 110% ; font-family: &amp;#34;calibri light&amp;#34; , sans-serif&quot;&gt;Passwort läuft ab, nach: _________Tagen&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2425" y="-160" width="1295" height="60" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-34" value="Workflow Kategorien(Personal, Führungskraft, MA?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2425" y="-60" width="510" height="70" as="geometry" />
@@ -346,7 +349,10 @@
           <mxGeometry x="3160" y="-820" width="380" height="110" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-57" value="Login Name&lt;br&gt;Vorname.Name / personalnummer / Email Adresse / kennung / Pseudonym" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3200" y="-479" width="690" height="89" as="geometry" />
+          <mxGeometry x="3180" y="-420" width="690" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-59" value="Bereitstellung Login Daten&lt;br&gt;Willkommens Schreiben per Email/ Post/sonstige" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="3180" y="-301" width="500" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
