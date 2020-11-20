@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T08:43:03.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="J_RUwqsx4VTXfm-jGu2k" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T08:43:53.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="buV41z9v36eJdL1eAUl9" version="13.10.0" type="github">
   <diagram id="b3nM-uWUJkLZfT_GbLBI" name="Page-1">
     <mxGraphModel dx="1422" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,6 +124,9 @@
         <mxCell id="krnSTrBuLFelM3X9hXQ2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-1" target="wHNJylQBOaRW4k9Dnt0R-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-1" target="krnSTrBuLFelM3X9hXQ2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wHNJylQBOaRW4k9Dnt0R-1" value="Kick-off Fragenkatalog" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="640" y="-110" width="320" height="60" as="geometry" />
         </mxCell>
@@ -142,8 +145,14 @@
         <mxCell id="wHNJylQBOaRW4k9Dnt0R-6" value="Payrollportal, Employee" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1080" y="360" width="290" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="krnSTrBuLFelM3X9hXQ2-6" target="krnSTrBuLFelM3X9hXQ2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-6" value="Ansprechpartner" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="-360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="-290" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-8" value="Personalabteilung" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="-460" width="250" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
