@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T08:45:39.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="2RMN419H1xECFGGyfuDr" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T08:47:10.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="5UaPc29OLE43v_BAeFuP" version="13.10.0" type="github">
   <diagram id="b3nM-uWUJkLZfT_GbLBI" name="Page-1">
     <mxGraphModel dx="1422" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,6 +133,9 @@
         <mxCell id="krnSTrBuLFelM3X9hXQ2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-2" target="krnSTrBuLFelM3X9hXQ2-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-2" target="krnSTrBuLFelM3X9hXQ2-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wHNJylQBOaRW4k9Dnt0R-2" value="Termins,&amp;nbsp;&lt;br style=&quot;font-size: 18px;&quot;&gt;Gewünschter Zeitrahmen,&lt;br style=&quot;font-size: 18px;&quot;&gt;Kontakt" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1085" y="-130" width="280" height="90" as="geometry" />
         </mxCell>
@@ -171,6 +174,9 @@
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-14" value="Workshop Gestaltung Portal Portal/ Workflows&lt;br&gt;(wie lange Workflow machen?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1460" y="-190" width="430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-16" value="Test nach Ersteinrichtung&amp;nbsp;&lt;br&gt;(woher weiß ich, wie lange die Einrichtung dauert können?&lt;br&gt;muss man Erfahrungen haben)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="-90" width="610" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
