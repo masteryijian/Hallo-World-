@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T09:02:38.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="ZlLpOLYgF1wdieDG8p07" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T09:05:44.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="gKiibdya7cULoRTb4KIV" version="13.10.0" type="github">
   <diagram id="b3nM-uWUJkLZfT_GbLBI" name="Page-1">
     <mxGraphModel dx="1422" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -274,10 +274,10 @@
         <mxCell id="krnSTrBuLFelM3X9hXQ2-20" value="Anwendungschulung(Präsentation)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1600" y="-40" width="445" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="krnSTrBuLFelM3X9hXQ2-22" value="Zugriffsart(Intranet/Internet?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-22" value="Zugriffsart(Intranet(VPN?)/Internet?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2410" y="-670" width="405" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="krnSTrBuLFelM3X9hXQ2-24" value="Domain(Name, Abkürzung, verschönere?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-24" value="Domain(Name, Abkürzung, verschönere?)&lt;br&gt;(Haben sie schön oder neuer(was kostet es))" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2410" y="-560" width="425" height="80" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-26" value="Versandadresse des Unternehmens" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
