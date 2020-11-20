@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T08:57:22.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="A5-LIEWpH7FjV1ptvCfY" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T08:57:49.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="cEI0KT-dFyYOgAsywBjj" version="13.10.0" type="github">
   <diagram id="b3nM-uWUJkLZfT_GbLBI" name="Page-1">
     <mxGraphModel dx="1422" dy="3138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -175,6 +175,9 @@
         <mxCell id="krnSTrBuLFelM3X9hXQ2-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-4" target="krnSTrBuLFelM3X9hXQ2-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-4" target="krnSTrBuLFelM3X9hXQ2-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wHNJylQBOaRW4k9Dnt0R-4" value="Stammdatenimport" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1080" y="160" width="280" height="60" as="geometry" />
         </mxCell>
@@ -243,6 +246,9 @@
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-38" value="Definitionen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1610" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-40" value="Workflow spezifisch" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="240" width="290" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
