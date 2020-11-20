@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T08:55:14.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="kj_ex77zfcvRjb9UalAD" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T08:57:22.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="A5-LIEWpH7FjV1ptvCfY" version="13.10.0" type="github">
   <diagram id="b3nM-uWUJkLZfT_GbLBI" name="Page-1">
-    <mxGraphModel dx="1422" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="3138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,8 +163,17 @@
         <mxCell id="krnSTrBuLFelM3X9hXQ2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-3" target="krnSTrBuLFelM3X9hXQ2-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-3" target="krnSTrBuLFelM3X9hXQ2-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-3" target="krnSTrBuLFelM3X9hXQ2-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wHNJylQBOaRW4k9Dnt0R-3" value="Daten zur Einrichtung des Portals(Workflows)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1080" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-4" target="krnSTrBuLFelM3X9hXQ2-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wHNJylQBOaRW4k9Dnt0R-4" value="Stammdatenimport" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1080" y="160" width="280" height="60" as="geometry" />
@@ -188,43 +197,52 @@
           <mxGeometry x="1080" y="-290" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-8" value="Personalabteilung" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="-790" width="250" height="80" as="geometry" />
+          <mxGeometry x="1530" y="-1450" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-10" value="IT-Services, Netzwerk" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="-650" width="240" height="60" as="geometry" />
+          <mxGeometry x="1530" y="-1310" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-12" value="Kaufmännische Leitung" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="-570" width="230" height="70" as="geometry" />
+          <mxGeometry x="1530" y="-1230" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-14" value="Workshop Gestaltung Portal Portal/ Workflows&lt;br&gt;(wie lange Workflow machen?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="-490" width="430" height="70" as="geometry" />
+          <mxGeometry x="1580" y="-1150" width="430" height="70" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-16" value="Test nach Ersteinrichtung&amp;nbsp;&lt;br&gt;(woher weiß ich, wie lange die Einrichtung dauert können?&lt;br&gt;muss man Erfahrungen haben)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="-390" width="610" height="120" as="geometry" />
+          <mxGeometry x="1590" y="-1050" width="610" height="120" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-18" value="Go Live (Test-Prod)&lt;br&gt;(Stammdatenimportieren?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1495" y="-240" width="375" height="70" as="geometry" />
+          <mxGeometry x="1595" y="-900" width="375" height="70" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-20" value="Anwendungschulung(Präsentation)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1495" y="-140" width="445" height="70" as="geometry" />
+          <mxGeometry x="1595" y="-800" width="445" height="70" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-22" value="Zugriffsart(Intranet/Internet?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1495" y="-40" width="405" height="80" as="geometry" />
+          <mxGeometry x="1595" y="-700" width="405" height="80" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-24" value="Domain(Name, Abkürzung, verschönere?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1495" y="70" width="425" height="80" as="geometry" />
+          <mxGeometry x="1595" y="-590" width="425" height="80" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-26" value="Versandadresse des Unternehmens" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="180" width="360" height="90" as="geometry" />
+          <mxGeometry x="1610" y="-480" width="360" height="90" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-28" value="Email Adresse des Unternehmens(Postfach einrichten?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="300" width="500" height="60" as="geometry" />
+          <mxGeometry x="1610" y="-360" width="500" height="60" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-30" value="Definition Login Benutzername und Nutzerkennung" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="381" width="540" height="59" as="geometry" />
+          <mxGeometry x="1610" y="-279" width="540" height="59" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-32" value="Passwort Konventionen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="470" width="290" height="60" as="geometry" />
+          <mxGeometry x="1610" y="-190" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-34" value="Workflow Kategorien(Personal, Führungskraft, MA?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="-90" width="510" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-36" value="Berechtigungen Gruppen/Rollen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="23" width="360" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-38" value="Definitionen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
