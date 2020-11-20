@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T15:03:02.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="VdXgscc6ETqBH6BBLQPw" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T15:04:56.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="M83WKirfK7_93BqVrIW0" version="13.10.0" type="github">
   <diagram id="SL32rtM2wAZGgII5a59b" name="Page-1">
-    <mxGraphModel dx="2249" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3197" dy="2502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,10 +35,12 @@
           <mxGeometry x="360" y="60" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LXSSktCqg1_w_sTUEPSr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" parent="1" source="LXSSktCqg1_w_sTUEPSr-6" target="LXSSktCqg1_w_sTUEPSr-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2750" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="LXSSktCqg1_w_sTUEPSr-6" value="Workflows" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="LXSSktCqg1_w_sTUEPSr-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="40" width="1470" height="320" as="geometry" />
         </mxCell>
         <mxCell id="LXSSktCqg1_w_sTUEPSr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" parent="1" source="LXSSktCqg1_w_sTUEPSr-7" target="LXSSktCqg1_w_sTUEPSr-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -58,50 +60,54 @@
         <mxCell id="LXSSktCqg1_w_sTUEPSr-9" value="bestimmter Workflow (Warum nach ein tag verfügbar)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="210" y="360" width="617" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LXSSktCqg1_w_sTUEPSr-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="LXSSktCqg1_w_sTUEPSr-10" target="LXSSktCqg1_w_sTUEPSr-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LXSSktCqg1_w_sTUEPSr-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LXSSktCqg1_w_sTUEPSr-10" target="LXSSktCqg1_w_sTUEPSr-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3602" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LXSSktCqg1_w_sTUEPSr-10" value="Bgs Workflow Form Submission State (Eingabe Formular prüfen)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="1318" y="160" width="750" height="60" as="geometry" />
+          <mxGeometry x="2750" y="160" width="750" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LXSSktCqg1_w_sTUEPSr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=24;" parent="1" source="LXSSktCqg1_w_sTUEPSr-11" target="LXSSktCqg1_w_sTUEPSr-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LXSSktCqg1_w_sTUEPSr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=24;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LXSSktCqg1_w_sTUEPSr-11" target="LXSSktCqg1_w_sTUEPSr-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3831.8160000000007" y="190.19999999999982" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LXSSktCqg1_w_sTUEPSr-11" value="Validiert&lt;br&gt;(/Invaliding)" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="2170" y="65" width="230" height="250" as="geometry" />
+          <mxGeometry x="3640" y="60" width="230" height="250" as="geometry" />
         </mxCell>
         <mxCell id="LXSSktCqg1_w_sTUEPSr-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" parent="1" source="LXSSktCqg1_w_sTUEPSr-12" target="LXSSktCqg1_w_sTUEPSr-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LXSSktCqg1_w_sTUEPSr-12" value="&lt;span&gt;Bgs Workflow Content Export&lt;br&gt;(wichtig: create Content Item, um weiterzugeben)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="2510" y="170" width="560" height="60" as="geometry" />
+          <mxGeometry x="3942" y="170" width="560" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LXSSktCqg1_w_sTUEPSr-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" parent="1" source="LXSSktCqg1_w_sTUEPSr-14" target="LXSSktCqg1_w_sTUEPSr-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LXSSktCqg1_w_sTUEPSr-14" value="Bgs Set Workflow Step" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="3200" y="170" width="310" height="60" as="geometry" />
+          <mxGeometry x="4632" y="170" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LXSSktCqg1_w_sTUEPSr-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="LXSSktCqg1_w_sTUEPSr-15" target="LXSSktCqg1_w_sTUEPSr-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LXSSktCqg1_w_sTUEPSr-15" value="Berechtigung (z.B. nur Ansicht)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="3620" y="170" width="380" height="60" as="geometry" />
+          <mxGeometry x="5052" y="170" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LXSSktCqg1_w_sTUEPSr-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" parent="1" source="LXSSktCqg1_w_sTUEPSr-16" target="LXSSktCqg1_w_sTUEPSr-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LXSSktCqg1_w_sTUEPSr-16" value="Email" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="4110" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="5542" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LXSSktCqg1_w_sTUEPSr-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" parent="1" source="LXSSktCqg1_w_sTUEPSr-17" target="LXSSktCqg1_w_sTUEPSr-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LXSSktCqg1_w_sTUEPSr-17" value="Pop-up (fertig)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="4330" y="170" width="210" height="60" as="geometry" />
+          <mxGeometry x="5762" y="170" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LXSSktCqg1_w_sTUEPSr-18" value="redirect" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="4640" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="6072" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d2Cj2jdhnRXsQFB6EZLM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="d2Cj2jdhnRXsQFB6EZLM-1" target="LXSSktCqg1_w_sTUEPSr-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -113,28 +119,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tDywQWQrX5cq91IsNmdH-1" value="Step Start&lt;br&gt;Erfassen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1170" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tDywQWQrX5cq91IsNmdH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="tDywQWQrX5cq91IsNmdH-2" target="tDywQWQrX5cq91IsNmdH-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tDywQWQrX5cq91IsNmdH-2" value="beurteilen" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="305" width="150" height="90" as="geometry" />
+          <mxGeometry x="1380" y="155" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tDywQWQrX5cq91IsNmdH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="tDywQWQrX5cq91IsNmdH-4" target="tDywQWQrX5cq91IsNmdH-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tDywQWQrX5cq91IsNmdH-4" value="Step freigeben" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1624" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tDywQWQrX5cq91IsNmdH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="tDywQWQrX5cq91IsNmdH-6" target="tDywQWQrX5cq91IsNmdH-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tDywQWQrX5cq91IsNmdH-6" value="wenn abgelehnt, dann&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="295" width="270" height="110" as="geometry" />
+          <mxGeometry x="1870" y="145" width="270" height="110" as="geometry" />
         </mxCell>
         <mxCell id="tDywQWQrX5cq91IsNmdH-8" value="Step bearbeiten" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2270" y="320" width="200" height="60" as="geometry" />
+          <mxGeometry x="2240" y="170" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tDywQWQrX5cq91IsNmdH-11" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;Workflows&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="60" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
