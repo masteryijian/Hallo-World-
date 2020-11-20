@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T09:00:48.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="PuJEEzOKgZkSPdj8i5ph" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T09:02:38.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="ZlLpOLYgF1wdieDG8p07" version="13.10.0" type="github">
   <diagram id="b3nM-uWUJkLZfT_GbLBI" name="Page-1">
     <mxGraphModel dx="1422" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -244,26 +244,35 @@
         <mxCell id="krnSTrBuLFelM3X9hXQ2-6" value="Ansprechpartner" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1090" y="-270" width="230" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="krnSTrBuLFelM3X9hXQ2-8" target="krnSTrBuLFelM3X9hXQ2-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-8" value="Personalabteilung" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="-700" width="250" height="80" as="geometry" />
+          <mxGeometry x="1570" y="-680" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="krnSTrBuLFelM3X9hXQ2-10" target="krnSTrBuLFelM3X9hXQ2-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-10" value="IT-Services, Netzwerk" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1570" y="-600" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="krnSTrBuLFelM3X9hXQ2-12" target="krnSTrBuLFelM3X9hXQ2-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-12" value="Kaufmännische Leitung" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1570" y="-520" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-14" value="Workshop Gestaltung Portal Portal/ Workflows&lt;br&gt;(wie lange Workflow machen?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="-390" width="430" height="70" as="geometry" />
+          <mxGeometry x="1600" y="-390" width="430" height="70" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-16" value="Test nach Ersteinrichtung&amp;nbsp;&lt;br&gt;(woher weiß ich, wie lange die Einrichtung dauert können?&lt;br&gt;muss man Erfahrungen haben)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1600" y="-290" width="610" height="120" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-18" value="Go Live (Test-Prod)&lt;br&gt;(Stammdatenimportieren?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1605" y="-140" width="375" height="70" as="geometry" />
+          <mxGeometry x="1600" y="-140" width="375" height="70" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-20" value="Anwendungschulung(Präsentation)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1605" y="-40" width="445" height="70" as="geometry" />
+          <mxGeometry x="1600" y="-40" width="445" height="70" as="geometry" />
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-22" value="Zugriffsart(Intranet/Internet?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2410" y="-670" width="405" height="80" as="geometry" />
@@ -294,6 +303,9 @@
         </mxCell>
         <mxCell id="krnSTrBuLFelM3X9hXQ2-40" value="Workflow spezifisch" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1470" y="220" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-42" value="Name,&lt;br&gt;Email,&lt;br&gt;Telefon" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1845" y="-680" width="185" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
