@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T15:06:29.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="bruv9UzS5rWWpRa0SujO" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T15:03:02.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="VdXgscc6ETqBH6BBLQPw" version="13.10.0" type="github">
   <diagram id="SL32rtM2wAZGgII5a59b" name="Page-1">
-    <mxGraphModel dx="3671" dy="2769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,11 +103,38 @@
         <mxCell id="LXSSktCqg1_w_sTUEPSr-18" value="redirect" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="4640" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d2Cj2jdhnRXsQFB6EZLM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d2Cj2jdhnRXsQFB6EZLM-1" target="LXSSktCqg1_w_sTUEPSr-7">
+        <mxCell id="d2Cj2jdhnRXsQFB6EZLM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="d2Cj2jdhnRXsQFB6EZLM-1" target="LXSSktCqg1_w_sTUEPSr-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d2Cj2jdhnRXsQFB6EZLM-1" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Bgs Set Workflow User Permissions&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d2Cj2jdhnRXsQFB6EZLM-1" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Bgs Set Workflow User Permissions&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-380" y="-130" width="460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tDywQWQrX5cq91IsNmdH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="tDywQWQrX5cq91IsNmdH-1" target="tDywQWQrX5cq91IsNmdH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tDywQWQrX5cq91IsNmdH-1" value="Step Start&lt;br&gt;Erfassen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tDywQWQrX5cq91IsNmdH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="tDywQWQrX5cq91IsNmdH-2" target="tDywQWQrX5cq91IsNmdH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tDywQWQrX5cq91IsNmdH-2" value="beurteilen" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="305" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tDywQWQrX5cq91IsNmdH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="tDywQWQrX5cq91IsNmdH-4" target="tDywQWQrX5cq91IsNmdH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tDywQWQrX5cq91IsNmdH-4" value="Step freigeben" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tDywQWQrX5cq91IsNmdH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="tDywQWQrX5cq91IsNmdH-6" target="tDywQWQrX5cq91IsNmdH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tDywQWQrX5cq91IsNmdH-6" value="wenn abgelehnt, dann&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="295" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tDywQWQrX5cq91IsNmdH-8" value="Step bearbeiten" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="320" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
