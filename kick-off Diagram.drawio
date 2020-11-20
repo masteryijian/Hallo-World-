@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T10:53:50.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="42fLTpVpX4ZECIHDsdQM" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T10:57:08.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="BOuxgu-O6_ZIMddk5MvT" version="13.10.0" type="github">
   <diagram id="b3nM-uWUJkLZfT_GbLBI" name="Page-1">
     <mxGraphModel dx="1422" dy="3138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -237,6 +237,27 @@
         <mxCell id="wHNJylQBOaRW4k9Dnt0R-5" value="Schnittstellen zu anderen Systemen&lt;br&gt;P&amp;amp;I Plus, Loga, SAP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1090" y="390" width="320" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-6" target="krnSTrBuLFelM3X9hXQ2-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-6" target="krnSTrBuLFelM3X9hXQ2-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-6" target="krnSTrBuLFelM3X9hXQ2-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-6" target="krnSTrBuLFelM3X9hXQ2-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-6" target="krnSTrBuLFelM3X9hXQ2-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-6" target="krnSTrBuLFelM3X9hXQ2-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="wHNJylQBOaRW4k9Dnt0R-6" target="krnSTrBuLFelM3X9hXQ2-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wHNJylQBOaRW4k9Dnt0R-6" value="Payrollportal, Employee" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1090" y="480" width="290" height="70" as="geometry" />
         </mxCell>
@@ -403,8 +424,14 @@
         <mxCell id="krnSTrBuLFelM3X9hXQ2-72" value="Berechtigungen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1520" y="710" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="krnSTrBuLFelM3X9hXQ2-73" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="802" width="120" height="60" as="geometry" />
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-73" value="Besonderheiten/ Bemerkungen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="802" width="310" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-74" value="Workflow Kategorien" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="902" width="230" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="krnSTrBuLFelM3X9hXQ2-75" value="Berechtigungen Gruppen / Rollen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1000" width="310" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
