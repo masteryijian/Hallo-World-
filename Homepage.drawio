@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T07:22:06.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Qr5og3CgGvTBM23i2ALP" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T07:24:07.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Zo0JkBBsO1g9daK8fwXe" version="13.10.4" type="github">
   <diagram id="Yc5Q-N0hE4ZpSh8a9BmZ" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,11 +28,20 @@
         <mxCell id="YQJ_ZjBRYF80ZhMWTBvU-9" value="Layout 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="170" y="380" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YQJ_ZjBRYF80ZhMWTBvU-10" value="Navigation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="360" y="390" width="120" height="40" as="geometry" />
+        <mxCell id="YQJ_ZjBRYF80ZhMWTBvU-13" value="Copyright" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="445" y="570" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YQJ_ZjBRYF80ZhMWTBvU-11" value="Carousel" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="360" y="450" width="120" height="40" as="geometry" />
+        <mxCell id="YQJ_ZjBRYF80ZhMWTBvU-14" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="445" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YQJ_ZjBRYF80ZhMWTBvU-15" value="Navigation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="445" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YQJ_ZjBRYF80ZhMWTBvU-16" value="Carousel" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="445" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YQJ_ZjBRYF80ZhMWTBvU-17" value="Content" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="445" y="520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
