@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T13:15:39.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="fqwtJJx008dNZ6z-wAj-" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T13:22:52.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="DkmAtd6FM8ihX-YWQZyj" version="14.0.4" type="github">
   <diagram id="iYjn84gbydF3m9eiHrol" name="Page-1">
     <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="BdOayHVXuTlcWGNxm3zI-2" value="Dokument Management&lt;br&gt;Datenbox einstellen" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="235" y="250" width="300" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BdOayHVXuTlcWGNxm3zI-3" value="Navigation -&amp;gt;Dokumente&lt;br style=&quot;font-size: 24px&quot;&gt;&lt;div class=&quot;WordSection1&quot; style=&quot;font-size: 24px&quot;&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0cm ; line-height: normal ; font-size: 24px ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;b style=&quot;font-size: 24px&quot;&gt;&lt;span lang=&quot;ZH-CN&quot; style=&quot;font-size: 24px ; font-family: &amp;#34;microsoft yahei&amp;#34; , sans-serif&quot;&gt;~/Begis.MaAkte/PayrollPortal#!#mydoc&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="BdOayHVXuTlcWGNxm3zI-3" value="Navigation -&amp;gt;Mainmenü-&amp;gt;Dokumente&lt;br style=&quot;font-size: 24px&quot;&gt;&lt;div class=&quot;WordSection1&quot; style=&quot;font-size: 24px&quot;&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0cm ; line-height: normal ; font-size: 24px ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;b style=&quot;font-size: 24px&quot;&gt;&lt;span lang=&quot;ZH-CN&quot; style=&quot;font-size: 24px ; font-family: &amp;#34;microsoft yahei&amp;#34; , sans-serif&quot;&gt;~/Begis.MaAkte/PayrollPortal#!#mydoc&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="87.5" y="450" width="595" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BdOayHVXuTlcWGNxm3zI-4" value="" style="endArrow=classic;html=1;fontSize=24;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BdOayHVXuTlcWGNxm3zI-1" target="BdOayHVXuTlcWGNxm3zI-2">
