@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T15:47:14.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.0.4" etag="leFHBMRMGYOwV4z926Jb" type="github"><diagram id="l6Hz1hsHJ4zBMD7P0PNV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-21T15:48:49.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="apjX92KiRxdT4yu7CNuY" version="14.0.4" type="github">
+  <diagram id="l6Hz1hsHJ4zBMD7P0PNV" name="Page-1">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fc4sqTiC6Q-jFqe-94QZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="fc4sqTiC6Q-jFqe-94QZ-1" target="fc4sqTiC6Q-jFqe-94QZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fc4sqTiC6Q-jFqe-94QZ-1" value="Navigation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="176" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fc4sqTiC6Q-jFqe-94QZ-2" value="Footer Menü" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="212" y="310" width="312" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
