@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T15:49:57.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="JnkoC3DIbLa--wy1w0Ex" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T15:52:23.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="74DE-mC4l7PgpYiwZ-Yg" version="14.0.4" type="github">
   <diagram id="l6Hz1hsHJ4zBMD7P0PNV" name="Page-1">
-    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,8 +16,23 @@
         <mxCell id="fc4sqTiC6Q-jFqe-94QZ-2" value="Footer Menü" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="212" y="310" width="312" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fc4sqTiC6Q-jFqe-94QZ-4" value="mthl menü item&lt;br&gt;hinfügen" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="fc4sqTiC6Q-jFqe-94QZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="fc4sqTiC6Q-jFqe-94QZ-4" target="fc4sqTiC6Q-jFqe-94QZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fc4sqTiC6Q-jFqe-94QZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="fc4sqTiC6Q-jFqe-94QZ-4" target="fc4sqTiC6Q-jFqe-94QZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fc4sqTiC6Q-jFqe-94QZ-4" value="html menü item&lt;br&gt;hinfügen" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="227" y="475" width="282" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fc4sqTiC6Q-jFqe-94QZ-6" value="PW ändern mit URL&lt;br&gt;https://10.232.87.5/IPN/Test/Portal/Users/Account/ChangePassword" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="720" width="750" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fc4sqTiC6Q-jFqe-94QZ-8" value="Nummer ändern mit&lt;br&gt;https://10.232.87.5/IPN/Test/Portal/Begis.Users.UserData/Userprofile/Userprofile" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-77" y="717.5" width="890" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="fc4sqTiC6Q-jFqe-94QZ-10" value="Redaktion&lt;br&gt;(default)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="890" y="717.5" width="300" height="112.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
