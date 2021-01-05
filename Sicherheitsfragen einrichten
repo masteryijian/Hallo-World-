@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T10:24:58.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="85NbAApGYDFbceUExuw7" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-05T10:25:29.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="n66N0BTn8k1N83aSkUuz" version="14.0.4" type="github">
   <diagram id="QN7TMqYVpybjJznzKCzl" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,8 +25,8 @@
         <mxCell id="pDGVqUEZFQmb851p03cn-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pDGVqUEZFQmb851p03cn-6" target="pDGVqUEZFQmb851p03cn-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pDGVqUEZFQmb851p03cn-6" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;Inhaltstyp&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="pDGVqUEZFQmb851p03cn-6" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;zurück zu Haupt menü--Inhaltstyp&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286" y="490" width="256" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pDGVqUEZFQmb851p03cn-8" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;Sicherheitsfragen&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="610" width="120" height="60" as="geometry" />
