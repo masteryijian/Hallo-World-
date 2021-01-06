@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T14:04:39.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BfOEbZz37BzuWepe0Vje" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-06T14:45:52.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="bNU-j8Bdp0_mtDC9sDe-" version="14.1.8" type="github">
   <diagram id="7HIfpvso0Z5AZp-2vAQp" name="Page-1">
     <mxGraphModel dx="3197" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -236,8 +236,11 @@
         <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-55" value="Sie müssen Ihre Personalabteilung Bescheid geben. Hier kann ich zwar ändern, aber übernachten weg.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1590" y="3312.5" width="785" height="105" as="geometry" />
         </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Uq7Z0CEdYaRuFa6-jZkK-57" target="Uq7Z0CEdYaRuFa6-jZkK-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-57" value="OK, Kein Problem, Dann hilfe ich Ihnen das Prozess druchzuführen" style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="800" y="4160" width="750" height="65" as="geometry" />
+          <mxGeometry x="800" y="4160" width="760" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.357;entryY=0.026;entryDx=0;entryDy=0;fontSize=24;entryPerimeter=0;" edge="1" parent="1" source="Uq7Z0CEdYaRuFa6-jZkK-59" target="Uq7Z0CEdYaRuFa6-jZkK-57">
           <mxGeometry relative="1" as="geometry">
@@ -274,10 +277,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-67" value="gehen Sie zu Login Seite" style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="185" y="4250" width="430" height="60" as="geometry" />
+          <mxGeometry x="160" y="4250" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Uq7Z0CEdYaRuFa6-jZkK-69" target="Uq7Z0CEdYaRuFa6-jZkK-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-69" value="PW vergessen klicken" style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="215" y="4400" width="370" height="60" as="geometry" />
+          <mxGeometry x="160" y="4400" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Uq7Z0CEdYaRuFa6-jZkK-71" target="Uq7Z0CEdYaRuFa6-jZkK-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-71" value="Sicherheitsfragen antworten" style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="160" y="4540" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Uq7Z0CEdYaRuFa6-jZkK-73" target="Uq7Z0CEdYaRuFa6-jZkK-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-73" value="PW zurücksetzen" style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="160" y="4676" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-75" value="neue Einloggen" style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="160" y="4810" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Uq7Z0CEdYaRuFa6-jZkK-77" target="Uq7Z0CEdYaRuFa6-jZkK-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-77" value="Ich stelle für Ihnen Loginversuch und sicherheitsfragen versuch zurück auf Null." style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="800" y="4310" width="760" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Uq7Z0CEdYaRuFa6-jZkK-79" target="Uq7Z0CEdYaRuFa6-jZkK-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-79" value="Und geben ich Ihnen eine einmalige PW, damit Sie die Sicherheitsfragen und das PW zurücksetzten können" style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="800" y="4480" width="760" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-81" value="Sind Sie an der Computer?&lt;br&gt;öffnen Sie ein Browser.&lt;br&gt;gehen Sie zu Hieber Portal&lt;br&gt;https://host.begis.de/HieberWeb/#!/login" style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="800" y="4670" width="760" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
