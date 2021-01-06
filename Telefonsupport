@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T13:39:36.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3se2LmRm8rbYlde2EIw6" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-06T13:42:31.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="O0eA_114LkX6If7N-_0e" version="14.1.8" type="github">
   <diagram id="7HIfpvso0Z5AZp-2vAQp" name="Page-1">
     <mxGraphModel dx="3197" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,8 +80,20 @@
         <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-3" value="PNR eingeben und suchen" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="40" y="1300" width="720" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Uq7Z0CEdYaRuFa6-jZkK-5" target="Uq7Z0CEdYaRuFa6-jZkK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-5" value="Sie sind hinterlegt, bei mir steht Frau/Herr xxx, ist das korrekt?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="45" y="1450" width="710" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Uq7Z0CEdYaRuFa6-jZkK-7" target="Uq7Z0CEdYaRuFa6-jZkK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-7" value="Ja ?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1595" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-11" value="Wegen Datenschutzrichlichen Gründe muss ich Ihnen ein Paar Fragen stellen?" style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="1780" width="850" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
