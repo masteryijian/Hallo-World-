@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T14:00:32.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="UINnL1sez3lKYM8ubRq_" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-06T14:04:39.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BfOEbZz37BzuWepe0Vje" version="14.1.8" type="github">
   <diagram id="7HIfpvso0Z5AZp-2vAQp" name="Page-1">
     <mxGraphModel dx="3197" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,6 +192,9 @@
         <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-41" value="verschut?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="230" y="3320" width="340" height="125" as="geometry" />
         </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Uq7Z0CEdYaRuFa6-jZkK-43" target="Uq7Z0CEdYaRuFa6-jZkK-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-43" value="Sie haben&amp;nbsp; x Versuchen gemacht,&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="205" y="3557.5" width="390" height="60" as="geometry" />
         </mxCell>
@@ -220,7 +223,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Uq7Z0CEdYaRuFa6-jZkK-53" target="Uq7Z0CEdYaRuFa6-jZkK-57">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="3760" />
+              <mxPoint x="1070" y="3760" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-53" value="Wir haben Sie am xx ausgeschickt, ist die Adresse aktuelle?" style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="722.5" y="3310" width="675" height="110" as="geometry" />
@@ -229,7 +237,47 @@
           <mxGeometry x="1590" y="3312.5" width="785" height="105" as="geometry" />
         </mxCell>
         <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-57" value="OK, Kein Problem, Dann hilfe ich Ihnen das Prozess druchzuführen" style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="685" y="3530" width="750" height="65" as="geometry" />
+          <mxGeometry x="800" y="4160" width="750" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.357;entryY=0.026;entryDx=0;entryDy=0;fontSize=24;entryPerimeter=0;" edge="1" parent="1" source="Uq7Z0CEdYaRuFa6-jZkK-59" target="Uq7Z0CEdYaRuFa6-jZkK-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="3765" />
+              <mxPoint x="1068" y="3765" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Uq7Z0CEdYaRuFa6-jZkK-59" target="Uq7Z0CEdYaRuFa6-jZkK-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-59" value="Sicherheitsfragen falsch beantwortet?" style="rhombus;rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="115" y="3690" width="570" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Uq7Z0CEdYaRuFa6-jZkK-62" target="Uq7Z0CEdYaRuFa6-jZkK-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-62" value="Wollen Sie mal mit Sicherheitsfragen die Passwort zurücksetzen?" style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="3960" width="900" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;entryX=0.355;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Uq7Z0CEdYaRuFa6-jZkK-64" target="Uq7Z0CEdYaRuFa6-jZkK-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="4130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Uq7Z0CEdYaRuFa6-jZkK-64" target="Uq7Z0CEdYaRuFa6-jZkK-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-64" value="Ja?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="360" y="4090" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Uq7Z0CEdYaRuFa6-jZkK-67" target="Uq7Z0CEdYaRuFa6-jZkK-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-67" value="gehen Sie zu Login Seite" style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="185" y="4250" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-69" value="PW vergessen klicken" style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="215" y="4400" width="370" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
