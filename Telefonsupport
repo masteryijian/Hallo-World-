@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T14:53:42.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="99c7HOv3__YwfYVTsu0n" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-07T13:03:01.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="SKhSC61uC1bD3lTz668B" version="14.1.8" type="github">
   <diagram id="7HIfpvso0Z5AZp-2vAQp" name="Page-1">
     <mxGraphModel dx="3197" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -357,7 +357,7 @@
         <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-93" value="Sicherheitsfragen versucht?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1035" y="5230" width="290" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-95" value="Möchten Sie sich selbe Ihre PW zurückzusetzen?" style="whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="Uq7Z0CEdYaRuFa6-jZkK-95" value="Möchten Sie sich selbe Ihre PW zurückzusetzen?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1490" y="5200" width="650" height="180" as="geometry" />
         </mxCell>
       </root>
