@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T10:55:29.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="at3kJoGuBNHp4hXT9xJZ" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-07T10:56:19.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="QEGpQgJNwUxP7e2EBAjz" version="14.1.8" type="github">
   <diagram id="Cu0sRCoqGoxQmGV13oXK" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
         <mxCell id="1T_acP2SPsPT19-Rigv1-15" value="Create New Field" style="whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="235" y="850" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1T_acP2SPsPT19-Rigv1-18" value="Worksheet (welche sheet von der Excel Datei: Worksheet1)&lt;br&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Coordinates&amp;nbsp;&lt;/font&gt;&lt;/span&gt;(Welche Position der Daten: B12)&lt;/p&gt;Runtime Value (Inhalt:{Content.DataSource:Reiseaenderung.Value:txtf_AnZeit,10} )" style="whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="1T_acP2SPsPT19-Rigv1-18" value="Worksheet (welche sheet von der Excel Datei: Worksheet1)&lt;br&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Coordinates&amp;nbsp;&lt;/font&gt;&lt;/span&gt;(Welche Position der Daten: B12)&lt;/p&gt;Runtime Value (Inhalt (Source von Datasource):{Content.DataSource:Reiseaenderung.Value:txtf_AnZeit,10} )" style="whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-106.87" y="1000" width="973.75" height="190" as="geometry" />
         </mxCell>
         <mxCell id="1T_acP2SPsPT19-Rigv1-20" value="Unterschied ist: Template Adress: Worksheet1!A1:A12&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
