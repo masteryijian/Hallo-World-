@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T13:58:37.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="GlknfodNPa6yf_2v6-SR" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T13:59:47.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="vcBLqdniOObKyz-UbCjh" version="14.1.9" type="github">
   <diagram id="KKCOvLGhlS00lco6z1c9" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,8 +70,26 @@
         <mxCell id="hTw5Qf9JkywqTNIScp_i-21" value="EDIB Workflow System" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="920" y="280" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hTw5Qf9JkywqTNIScp_i-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="hTw5Qf9JkywqTNIScp_i-22" target="hTw5Qf9JkywqTNIScp_i-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hTw5Qf9JkywqTNIScp_i-22" value="default" style="whiteSpace=wrap;html=1;rounded=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1180" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTw5Qf9JkywqTNIScp_i-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="hTw5Qf9JkywqTNIScp_i-24" target="hTw5Qf9JkywqTNIScp_i-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTw5Qf9JkywqTNIScp_i-24" value="Workflows" style="whiteSpace=wrap;html=1;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTw5Qf9JkywqTNIScp_i-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="hTw5Qf9JkywqTNIScp_i-26" target="hTw5Qf9JkywqTNIScp_i-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTw5Qf9JkywqTNIScp_i-26" value="Workflow auswählen/hinfügen&lt;br&gt;(nicht rein gehen)" style="whiteSpace=wrap;html=1;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="260" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hTw5Qf9JkywqTNIScp_i-28" value="Bearbeiten" style="whiteSpace=wrap;html=1;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1975" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
