@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T13:55:12.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="OWkXqb21FBpiNivcPQ1s" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T13:57:12.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="VbFytqKNLarRSK35jCc8" version="14.1.9" type="github">
   <diagram id="KKCOvLGhlS00lco6z1c9" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,33 @@
         </mxCell>
         <mxCell id="hTw5Qf9JkywqTNIScp_i-4" value="4. Durch Schnittstelle in&amp;amp;aus HTTP Source(Server) schreiben" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="80" y="680" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTw5Qf9JkywqTNIScp_i-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="hTw5Qf9JkywqTNIScp_i-8" target="hTw5Qf9JkywqTNIScp_i-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTw5Qf9JkywqTNIScp_i-8" value="Settings" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="920" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTw5Qf9JkywqTNIScp_i-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="hTw5Qf9JkywqTNIScp_i-9" target="hTw5Qf9JkywqTNIScp_i-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTw5Qf9JkywqTNIScp_i-9" value="Data Source Configuration" style="whiteSpace=wrap;html=1;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="80" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTw5Qf9JkywqTNIScp_i-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="hTw5Qf9JkywqTNIScp_i-11" target="hTw5Qf9JkywqTNIScp_i-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTw5Qf9JkywqTNIScp_i-11" value="HTTP typ auswählen" style="whiteSpace=wrap;html=1;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTw5Qf9JkywqTNIScp_i-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="hTw5Qf9JkywqTNIScp_i-13" target="hTw5Qf9JkywqTNIScp_i-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTw5Qf9JkywqTNIScp_i-13" value="Name, Server, Context" style="whiteSpace=wrap;html=1;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="25" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="hTw5Qf9JkywqTNIScp_i-15" value="Speichern" style="whiteSpace=wrap;html=1;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
