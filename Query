@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T11:43:09.583Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="EOUwSeANOh5VXELmDToI" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T11:45:29.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="NrJXAzQ_SA8NgCjKbdE0" version="14.2.6" type="github">
   <diagram id="nQtZj_QGI5y5lJOKjioi" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,11 +64,20 @@
         <mxCell id="zgftnUVNHWE6iUq_tXB4-24" value="Service Url" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="185" y="950" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zgftnUVNHWE6iUq_tXB4-25" value="http://..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="zgftnUVNHWE6iUq_tXB4-25" value="http://...xxx.svc" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="195" y="980" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zgftnUVNHWE6iUq_tXB4-26" value="Provider" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="540" y="990" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zgftnUVNHWE6iUq_tXB4-27" value="Context" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1060" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zgftnUVNHWE6iUq_tXB4-28" value="Mandant_Nr:{User.Content.HieberBusinessData.Mandantennummer}" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1090" width="515" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zgftnUVNHWE6iUq_tXB4-29" value="Token?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1120" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
