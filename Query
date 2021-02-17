@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T11:36:14.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="czedw9QhX80VQAfjiHsj" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T11:37:38.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="rU198E-eVf9mEAAI6YEd" version="14.2.6" type="github">
   <diagram id="nQtZj_QGI5y5lJOKjioi" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,6 +48,12 @@
         </mxCell>
         <mxCell id="zgftnUVNHWE6iUq_tXB4-17" value="List the additional output as key:value pairs." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="185" y="790" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zgftnUVNHWE6iUq_tXB4-18" value="Anfragen?&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="510" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zgftnUVNHWE6iUq_tXB4-19" value="Filter von Datenbank kommen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="490" y="720" width="330" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
