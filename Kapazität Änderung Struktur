@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T11:08:04.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="KSdJMzLhqskNsEgdgDTi" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T11:08:50.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="oGTguIkBlKhjV0nuaCPc" version="14.4.2" type="github">
   <diagram id="FqxD_IEgmU7ZCZjTjZjV" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,6 +20,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c0kHuU0cWyruIK0HCAxD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="c0kHuU0cWyruIK0HCAxD-4" target="c0kHuU0cWyruIK0HCAxD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0kHuU0cWyruIK0HCAxD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="c0kHuU0cWyruIK0HCAxD-4" target="c0kHuU0cWyruIK0HCAxD-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c0kHuU0cWyruIK0HCAxD-4" value="Personal 1" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
@@ -52,6 +55,15 @@
         </mxCell>
         <mxCell id="c0kHuU0cWyruIK0HCAxD-12" value="Bearbeitung" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="494" y="290" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0kHuU0cWyruIK0HCAxD-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="c0kHuU0cWyruIK0HCAxD-16" target="c0kHuU0cWyruIK0HCAxD-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0kHuU0cWyruIK0HCAxD-16" value="Trigger Mitbestimmung" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="50" y="290" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0kHuU0cWyruIK0HCAxD-18" value="Schritt 3 Sicht B" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="290" width="168" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
