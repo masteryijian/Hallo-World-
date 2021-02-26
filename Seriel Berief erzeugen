@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T12:54:20.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" version="14.4.2" etag="NI6FYUojQ3NHnrY3N9PI" type="github"><diagram id="uT5jxafeoBEy1dyhmDuV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-26T12:57:31.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="MLgzcWzD9N3BJnmpOcOh" version="14.4.2" type="github">
+  <diagram id="uT5jxafeoBEy1dyhmDuV" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Yjx8YmAQGsMnEk9_1ajp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="Yjx8YmAQGsMnEk9_1ajp-1" target="Yjx8YmAQGsMnEk9_1ajp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yjx8YmAQGsMnEk9_1ajp-1" value="csv Datei&lt;br&gt;(Selbst oder schon erzeugt)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="266" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Yjx8YmAQGsMnEk9_1ajp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="Yjx8YmAQGsMnEk9_1ajp-2" target="Yjx8YmAQGsMnEk9_1ajp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yjx8YmAQGsMnEk9_1ajp-2" value="Seriele Berief&lt;br&gt;(Mit Excel Templete)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="229.5" y="300" width="187" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Yjx8YmAQGsMnEk9_1ajp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="Yjx8YmAQGsMnEk9_1ajp-4" target="Yjx8YmAQGsMnEk9_1ajp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yjx8YmAQGsMnEk9_1ajp-4" value="WF Daten" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yjx8YmAQGsMnEk9_1ajp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="Yjx8YmAQGsMnEk9_1ajp-6" target="Yjx8YmAQGsMnEk9_1ajp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yjx8YmAQGsMnEk9_1ajp-6" value="PDF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="263" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yjx8YmAQGsMnEk9_1ajp-8" value="Sammelpost@fidelis.de&lt;br&gt;(Levadoc)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="174.5" y="525" width="297" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
